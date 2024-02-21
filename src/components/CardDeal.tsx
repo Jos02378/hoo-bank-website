@@ -1,4 +1,3 @@
-import React from 'react';
 import card from '../assets/card.png';
 import Button from './Button';
 

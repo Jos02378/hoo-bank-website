@@ -1,4 +1,3 @@
-import React from 'react';
 import arrowup from '../assets/arrow-up.svg';
 
 const GetStarted = () => (

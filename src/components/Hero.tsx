@@ -1,4 +1,3 @@
-import React from 'react';
 import discount from '../assets/Discount.svg';
 import robot from '../assets/robot.png';
 import GetStarted from './GetStarted';

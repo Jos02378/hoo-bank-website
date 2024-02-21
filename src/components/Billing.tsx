@@ -1,4 +1,3 @@
-import React from 'react';
 import apple from '../assets/apple.svg';
 import bill from '../assets/bill.png';
 import google from '../assets/google.svg';
