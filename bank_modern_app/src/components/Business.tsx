@@ -30,7 +30,7 @@ const FeatureCard: React.FC<{
 const Business = () => {
   return (
     <section id='features' className='section'>
-      <div className='sectionInfo'>
+      <div className='section-info'>
         <h2 className='heading-secondary'>
           You do the business, <br className='sm:block hidden' /> we’ll handle
           the money.
@@ -43,7 +43,7 @@ const Business = () => {
         <Button styles='mt-10' />
       </div>
 
-      <div className='sectionImg flex-col'>
+      <div className='section-img flex-col'>
         {features.map((feature, index) => (
           <FeatureCard key={feature.id} index={index} {...feature} />
         ))}
