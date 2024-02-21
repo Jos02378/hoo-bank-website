@@ -1,5 +1,5 @@
 import React from 'react';
-import { stats } from '../constants/index';
+import { stats } from '../constants';
 
 const Stats = () => (
   <section className='flex-center flex-row flex-wrap sm:mb-20 mb-6'>
