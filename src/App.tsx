@@ -26,7 +26,7 @@ const App = () => (
 
     <div className='bg-primary padding-x flex-start'>
       <div className='box-width'>
-        <Stats /> <Business /> <Billing /> <CardDeal /> <Testimonials />{' '}
+        <Stats /> <Business /> <Billing /> <CardDeal /> <Testimonials />
         <Clients /> <CTA /> <Footer />
       </div>
     </div>

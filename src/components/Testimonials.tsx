@@ -3,7 +3,7 @@ import FeedbackCard from './FeedbackCard';
 
 const Testimonials = () => (
   <section id='client' className='padding-y flex-center flex-col relative'>
-    <div className='absolute z-0 w-[60%] h-[60%] -right-[50%] rounded-full blue__gradient' />
+    <div className='absolute z-0 w-[60%] h-[60%] -right-[50%] rounded-full blue-gradient' />
 
     <div className='w-full flex justify-between items-center flex-col mb-6 relative z-[1] sm:mb-16 md:flex-row'>
       <h1 className='heading-secondary'>
